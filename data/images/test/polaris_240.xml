@@ -1,0 +1,19 @@
+<annotation>
+    <folder>polaris</folder>
+    <filename>polaris_240.jpg</filename>
+    <size>
+        <width>300</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>polaris</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>105</xmin>
+            <ymin>55</ymin>
+            <xmax>288</xmax>
+            <ymax>272</ymax>
+        </bndbox>
+    </object>
+</annotation>
